@@ -1,0 +1,40 @@
+Customizing the SPA VS.NET 2013 Template
+****************************************
+1.
+Delete the following:
+App_Data
+App_Start
+	All but BundleConfig, FilterConfig, RouteConfig, WebApiConfig
+Areas
+Controllers
+	All Controllers in Controllers folder
+Fonts
+Models
+Providers (authentication can be done as you need)
+Results
+Views
+	Drag _Layout.cshtml to root
+	Delete all views
+	Remove all content from body
+	Add @using System.Web.Optimization at top
+	Remove @RenderSection("Scripts", required: false)
+Startup.cs
+Project_Readme.html
+Remove all OWIN assemblies via NuGet / packages.config
+Remove OWIN auth from WebApiConfig
+Set: <add key="webpages:Enabled" value="true" /> in web.config
+Set: in web.config
+  <system.webServer>
+    <defaultDocument>
+      <files>
+        <clear />
+        <add value="default.cshtml" />
+      </files>
+    </defaultDocument>
+-Remove Sammy	
+	
+	
+Customizing the BowlerSPA application
+-Start with doing bootstrap overall design and then work inward with Angular
+
+
