@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Optimization;
+﻿using System.Web.Optimization;
 
 namespace SPABasicTemplate
 {
@@ -22,9 +19,15 @@ namespace SPABasicTemplate
 
             // Set EnableOptimizations to false for debugging. For more information,
             // visit http://go.microsoft.com/fwlink/?LinkId=301862
-            #if !DEBUG
+            #if (RELEASE)
+            {  
                 BundleTable.EnableOptimizations = true;
-            #endif
+            }
+            #else
+            {
+                BundleTable.EnableOptimizations = false;
+            }
+            #endif 
 
         }
     }
