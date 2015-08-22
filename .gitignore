@@ -11,12 +11,12 @@
 # Modify as needed to preserve files and be more explicit
 SPABasicTemplate/app/*.js
 SPABasicTemplate/app/*.js.map
-SPABasicTemplate/controllers/*.js
-SPABasicTemplate/controllers/*.js.map
-SPABasicTemplate/models/*.js
-SPABasicTemplate/models/*.js.map
-SPABasicTemplate/views/*.js
-SPABasicTemplate/views/*.js.map
+SPABasicTemplate/app/controllers/*.js
+SPABasicTemplate/app/controllers/*.js.map
+SPABasicTemplate/app/models/*.js
+SPABasicTemplate/app/models/*.js.map
+SPABasicTemplate/app/views/*.js
+SPABasicTemplate/app/views/*.js.map
 
 # Build results
 
