@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace SPABasicTemplate.Areas.HelpPage.ModelDescriptions
+namespace JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace SPABasicTemplate.Areas.HelpPage.ModelDescriptions
+namespace JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

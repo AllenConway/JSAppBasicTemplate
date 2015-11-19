@@ -106,9 +106,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SPABasicTemplate\SPABasicTemplate.csproj">
+    <ProjectReference Include="..\SPABasicTemplate\JSAppBasicTemplate.csproj">
       <Project>{4E1070F9-2A3C-4D4E-A371-7A854B6A9632}</Project>
-      <Name>SPABasicTemplate</Name>
+      <Name>JSAppBasicTemplate</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

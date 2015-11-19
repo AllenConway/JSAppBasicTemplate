@@ -1,6 +1,6 @@
 ﻿using System.Web.Optimization;
 
-namespace SPABasicTemplate
+namespace JSAppBasicTemplate
 {
     public class BundleConfig
     {

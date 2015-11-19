@@ -5,9 +5,9 @@ using System.Reflection;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
 using System.Xml.XPath;
-using SPABasicTemplate.Areas.HelpPage.ModelDescriptions;
+using JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions;
 
-namespace SPABasicTemplate.Areas.HelpPage
+namespace JSAppBasicTemplate.Areas.HelpPage
 {
     /// <summary>
     /// A custom <see cref="IDocumentationProvider"/> that reads the API documentation from an XML documentation file.

@@ -11,10 +11,11 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using SPABasicTemplate.Areas.HelpPage.ModelDescriptions;
-using SPABasicTemplate.Areas.HelpPage.Models;
+using JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions;
+using JSAppBasicTemplate.Areas.HelpPage.Models;
+using JSAppBasicTemplate.Areas.HelpPage.SampleGeneration;
 
-namespace SPABasicTemplate.Areas.HelpPage
+namespace JSAppBasicTemplate.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

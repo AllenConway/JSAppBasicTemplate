@@ -1,4 +1,4 @@
-namespace SPABasicTemplate.Areas.HelpPage
+namespace JSAppBasicTemplate.Areas.HelpPage.SampleGeneration
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

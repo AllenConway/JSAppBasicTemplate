@@ -1,4 +1,4 @@
-namespace SPABasicTemplate.Areas.HelpPage.ModelDescriptions
+namespace JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions
 {
     public class SimpleTypeModelDescription : ModelDescription
     {

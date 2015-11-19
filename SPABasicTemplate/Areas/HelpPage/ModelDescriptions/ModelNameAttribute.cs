@@ -1,6 +1,6 @@
 using System;
 
-namespace SPABasicTemplate.Areas.HelpPage.ModelDescriptions
+namespace JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Use this attribute to change the name of the <see cref="ModelDescription"/> generated for a type.

@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using SPABasicTemplate.Areas.HelpPage.ModelDescriptions;
-using SPABasicTemplate.Areas.HelpPage.Models;
+using JSAppBasicTemplate.Areas.HelpPage.ModelDescriptions;
+using JSAppBasicTemplate.Areas.HelpPage.Models;
 
-namespace SPABasicTemplate.Areas.HelpPage.Controllers
+namespace JSAppBasicTemplate.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

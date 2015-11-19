@@ -1,7 +1,8 @@
 using System.Web.Http;
 using System.Web.Mvc;
+using JSAppBasicTemplate.Areas.HelpPage.App_Start;
 
-namespace SPABasicTemplate.Areas.HelpPage
+namespace JSAppBasicTemplate.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

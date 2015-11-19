@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace SPABasicTemplate.Areas.HelpPage
+namespace JSAppBasicTemplate.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {
