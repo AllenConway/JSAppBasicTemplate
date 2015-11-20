@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{794E22
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSAppBasicTemplate", "SPABasicTemplate\JSAppBasicTemplate.csproj", "{4E1070F9-2A3C-4D4E-A371-7A854B6A9632}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSAppBasicTemplate", "JSAppBasicTemplate\JSAppBasicTemplate.csproj", "{4E1070F9-2A3C-4D4E-A371-7A854B6A9632}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
