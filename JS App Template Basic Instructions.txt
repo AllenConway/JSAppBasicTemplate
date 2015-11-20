@@ -1,4 +1,4 @@
-Customizing the SPA VS.NET 2013 Template
+Customizing the JS App VS.NET 2015 Template
 ****************************************
 1.
 Delete the following:
